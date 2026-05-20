@@ -8,6 +8,6 @@ contract auditors lack circuit fluency.
 Parallel research thread: ZK proofs as financial audit evidence, 
 with a focus on Prover-as-a-Service architectures.
 
-First public artifacts landing Q3-2026: Circom vulnerability reproductions.
+First public artifacts landing Q3-2026: Circom vulnerability reproductions from the [0xPARC ZK Bug Tracker](https://github.com/0xPARC/zk-bug-tracker) and [zkSecurity/zkbugs](https://github.com/zksecurity/zkbugs).
 
 Contact: [@CyFe45](https://x.com/CyFe45)
