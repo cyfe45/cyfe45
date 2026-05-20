@@ -1,16 +1,13 @@
-## Hi there 👋
+## ZK-Solidity security research
 
-<!--
-**cyfe45/cyfe45** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Big 4 audit, structured finance background (RMBS), building toward
+research-grade ZK circuit security. Working at the ZK-Solidity boundary —
+where most ZK researchers lack smart contract depth and most smart
+contract auditors lack circuit fluency.
 
-Here are some ideas to get you started:
+Parallel research thread: ZK proofs as financial audit evidence, 
+with a focus on Prover-as-a-Service architectures.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+First public artifacts (Circom vulnerability reproductions landing Q3-2026.
+
+Contact: [@CyFe45](https://x.com/CyFe45)
